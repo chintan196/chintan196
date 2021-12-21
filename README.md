@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chintan196
+- 👋 Hi, I’m Chintan Desai..
 - 👀 I’m interested in programming and consulting..
 - 🌱 I’m currently learning graph databases, neo4j, python, java..
 
