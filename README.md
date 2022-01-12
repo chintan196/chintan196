@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Chintan Desai.. I am a full stack programmer, with skills on Microsoft Stack, Javascript based web frameworks and relational databases.
+- 👋 Hi, I’m Chintan Desai.. 
+- ✨ I am a full stack programmer. Experienced with C# on Microsoft Stack, Javascript based web frameworks and relational databases.
 - 👀 I’m interested in programming and consulting..
 - 🌱 I’m currently learning graph databases, neo4j, python, java..
 
